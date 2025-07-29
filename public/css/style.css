@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    padding: 3rem;
+}
+
+form {
+    text-align: center;
+}
+
+form label {
+    font-size: 1.2rem;
+}
+
+form input[type="text"] {
+    padding: .5rem;
+    width: 30rem;
+}
+
+form input[type="submit"] {
+    padding: .5rem;
+}
+
+table {
+    margin: 2rem auto;
+    border-collapse: collapse;
+}
+
+table * {
+    border: 1px solid black;
+    padding: .5rem
+}
